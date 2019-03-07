@@ -1,2 +1,2 @@
-# Time-Series-Classification
-Classify human activities based on time series data
+# Time-Series-Classification of human activities based on time series data
+
